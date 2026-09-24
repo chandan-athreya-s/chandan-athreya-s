@@ -135,7 +135,7 @@ A web application experimenting with AI-assisted workflows and modern frontend d
 `React` `Tailwind CSS` `Supabase` `OpenAI API`
 
 **Repository:**
-`[https://github.com/BMMrvce/PatchNova.git]`
+`https://github.com/BMMrvce/PatchNova.git`
 
 ---
 
@@ -289,7 +289,7 @@ The learning isn't.
 [![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge\&logo=leetcode\&logoColor=FFA116)](https://leetcode.com/u/_Chandan_Athreya_/)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge\&logo=instagram\&logoColor=E4405F)](https://www.instagram.com/_chandan_athreya_/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge\&logo=hackerrank\&logoColor=00EA64)](https://www.hackerrank.com/profile/chandanathreya61)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge\&logo=gmail\&logoColor=EA4335)](mailto:chandanathreya@outlook.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge\&logo=gmail\&logoColor=EA4335)](chandanathreya@outlook.com)
 
 </div>
 
